@@ -1,5 +1,5 @@
 /* Corridor of the Dead  "Haunted Night" - GLUT/OpenGL
-   One university floor (corridor, 8 classrooms, washroom with 3 cubicles,
+   One floor (corridor, 8 classrooms, washroom with 3 cubicles,
    2 elevators) with zombies to shoot; ride Elevator A up. Clear 3 floors to win.
    Old-school ghost look: fog, flickering tubes, candles, cobwebs, scrawled
    walls, dust and a grainy film overlay.
